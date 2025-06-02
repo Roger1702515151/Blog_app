@@ -1,0 +1,13 @@
+
+backend/
+├── index.js              ← Archivo principal del servidor
+├── .env                  ← Variables de entorno
+├── /models
+│   └── User.js
+├── /routes
+│   └── auth.jsññ
+
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
